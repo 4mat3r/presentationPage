@@ -1,0 +1,10 @@
+.country-flag {
+  width: 25px;
+  height: 25px;
+  transition: all 0.4s linear;
+
+  &:hover {
+    cursor: pointer;
+    transform: scale(1.2);
+  }
+}
