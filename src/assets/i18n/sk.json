@@ -1,14 +1,15 @@
 {
-    "HELLO": "Ahoj {{value}}",
-    "NAVBAR": "Navigacny panel",
-    "HOME": "domov",
-    "LINK": "odkaz",
-    "ENG": "eng",
-    "SK": "sk",
-    "DROPDOWN": "rozbaľovací",
-    "ACTION": "akcia",
-    "ANOTHER_ACTION": "dalsia akcia",
-    "SOMETHING_ELSE_HERE":"nieco ine tu",
-    "DISABLED":"vypnuty",
-    "SEARCH":"hladat"
+  "HELLO": "Ahoj {{value}}",
+  "HOME": "Domov",
+  "ABOUT": "O nás",
+  "ABOUT_LUCIA": "O Lucke",
+  "ABOUT_LUCIA_TXT": "Nejaký zaujímavý text o Lucke",
+  "ABOUT_RASTISLAV": "O Rasťovi",
+  "ABOUT_RASTISLAV_TXT": "Nejaký zaujímavý text o Rasťovi",
+  "CONTACT": "Kontakt",
+  "ENG": "eng",
+  "SK": "sk",
+  "SOMETHING_ELSE_HERE": "nieco ine tu",
+  "DISABLED": "vypnuty",
+  "SEARCH": "hladat"
 }

@@ -1,14 +1,15 @@
 {
-    "HELLO": "hello {{value}}",
-    "NAVBAR": "Navbar",
-    "HOME": "home",
-    "LINK": "link",
-    "ENG": "eng",
-    "SK": "sk",
-    "DROPDOWN": "dropdown",
-    "ACTION": "action",
-    "ANOTHER_ACTION": "another action",
-    "SOMETHING_ELSE_HERE":"something else here",
-    "DISABLED":"disabled",
-    "SEARCH":"search"
+  "HELLO": "hello {{value}}",
+  "HOME": "Home",
+  "ABOUT": "About us",
+  "ABOUT_LUCIA": "About Lucia",
+  "ABOUT_LUCIA_TXT": "Something interesting about Lucka",
+  "ABOUT_RASTISLAV": "About Rastislav",
+  "ABOUT_RASTISLAV_TXT": "Something interesting about Rasťo",
+  "CONTACT": "Contact",
+  "ENG": "eng",
+  "SK": "sk",
+  "SOMETHING_ELSE_HERE": "something else here",
+  "DISABLED": "disabled",
+  "SEARCH": "search"
 }

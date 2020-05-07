@@ -24,4 +24,11 @@ export class NavbarComponent {
   setSK() {
     this.translate.use('sk');
   }
+
+  public onClick(elementId: string): void {
+    const element = document.querySelector('#' + elementId);
+    if (element) {
+      element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
 }
