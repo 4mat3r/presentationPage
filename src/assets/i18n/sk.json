@@ -1,0 +1,14 @@
+{
+    "HELLO": "Ahoj {{value}}",
+    "NAVBAR": "Navigacny panel",
+    "HOME": "domov",
+    "LINK": "odkaz",
+    "ENG": "eng",
+    "SK": "sk",
+    "DROPDOWN": "rozbaľovací",
+    "ACTION": "akcia",
+    "ANOTHER_ACTION": "dalsia akcia",
+    "SOMETHING_ELSE_HERE":"nieco ine tu",
+    "DISABLED":"vypnuty",
+    "SEARCH":"hladat"
+}
